@@ -8,17 +8,27 @@ It is a tool for quick visualization and intuition and not for computing intensi
 Features by now:
 
 Easy Sympy Expression input
+
 Derivatives and Integration
+
 Matrix/Vector Algebra
+
 Series and Limits
+
 Sums and Products
 
 Plotting 2D Graphs
+
 Outputting Graphs as PNG/SVG
+
 Outputting Equations as LaTeX
+
+
 
 To Do:
 
 Speed up LaTeX representation
+
 3D/Vector plotting
+
 More intuitive gui
